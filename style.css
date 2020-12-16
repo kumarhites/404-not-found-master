@@ -112,7 +112,7 @@ h3 {
 }
 
 .text > button:hover {
-  background-color: #cc4a3f;
+  background-color: rgb(41, 41, 187);
 }
 
 .bottom {
@@ -130,7 +130,7 @@ a {
 }
 
 a:hover {
-  color: #cc4a3f;
+  color: rgb(41, 41, 187);
 }
 
 @media screen and (max-width: 900px) {
